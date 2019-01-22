@@ -1,238 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//hibr-clone.local/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/</loc>
 		<lastmod>2017-03-20T16:58:49-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/cart/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/cart/</loc>
 		<lastmod>2014-09-20T08:45:57-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/checkout/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/checkout/</loc>
 		<lastmod>2015-06-23T15:22:42-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/privacy-policy/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/privacy-policy/</loc>
 		<lastmod>2015-12-22T11:04:30-05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/terms-conditions/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/terms-conditions/</loc>
 		<lastmod>2015-12-22T11:14:02-05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/pillows/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/pillows/</loc>
 		<lastmod>2016-02-18T09:39:06-05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/mattress-reviews/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/mattress-reviews/</loc>
 		<lastmod>2016-02-24T16:19:00-05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/pillow-reviews/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/pillow-reviews/</loc>
 		<lastmod>2016-02-24T16:20:54-05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/referral/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/referral/</loc>
 		<lastmod>2016-04-20T11:57:57-04:00</lastmod>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/03/raf-logo-50.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/03/raf-logo-50.png</image:loc>
 			<image:caption><![CDATA[Refer a Friend]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/press/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/press/</loc>
 		<lastmod>2016-04-28T20:13:34-04:00</lastmod>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/media-coverage1.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/media-coverage1.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Media Coverage]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/HIBR-Logo-Teal-Large.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/HIBR-Logo-Teal-Large.png</image:loc>
 			<image:caption><![CDATA[HIBR Logo]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress2-Thumb.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress2-Thumb.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Mattress]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress6-Thumb.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress6-Thumb.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Mattress]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress-Video1-Thumb.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress-Video1-Thumb.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Mattress Video]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Matress5-Thumb.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Matress5-Thumb.png</image:loc>
 			<image:caption><![CDATA[HIBR Mattress]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress8-Thumb.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress8-Thumb.png</image:loc>
 			<image:caption><![CDATA[HIBR Mattress]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress4-Thumb.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress4-Thumb.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Mattress]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/HIBR-Image7.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/HIBR-Image7.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Pillows]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/HIBR-Image2.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/HIBR-Image2.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Pillows]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Pillow4-Thumb.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Pillow4-Thumb.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Pillows]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/HIBRPress-Side.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/HIBRPress-Side.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Side]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/HIBRPress-Simple.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/HIBRPress-Simple.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Simple]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/HIBRPress-Silhouette.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/HIBRPress-Silhouette.jpg</image:loc>
 			<image:caption><![CDATA[HIBR Silhouette]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Pillow5-Thumb.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Pillow5-Thumb.png</image:loc>
 			<image:caption><![CDATA[HIBR Side]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Pillow6-Thumb.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Pillow6-Thumb.png</image:loc>
 			<image:caption><![CDATA[HIBR-Simple]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Pillow7-Thumb.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Pillow7-Thumb.png</image:loc>
 			<image:caption><![CDATA[HIBR-Silhouette]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress3-Thumb.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/HIBR-Mattress3-Thumb.jpg</image:loc>
 			<image:caption><![CDATA[HIBR-Image5]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/HIBR-Image6.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/HIBR-Image6.jpg</image:loc>
 			<image:caption><![CDATA[HIBR-Image6]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2015/08/HIBR-Image3.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2015/08/HIBR-Image3.jpg</image:loc>
 			<image:caption><![CDATA[HIBR-Image3]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/innovation/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/innovation/</loc>
 		<lastmod>2016-08-02T10:53:50-04:00</lastmod>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/innovation-hero16.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/innovation-hero16.jpg</image:loc>
 			<image:title><![CDATA[innovation-hero16]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/scholarships/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/scholarships/</loc>
 		<lastmod>2016-08-21T12:20:45-04:00</lastmod>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/08/scholarship-hero.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/08/scholarship-hero.jpg</image:loc>
 			<image:title><![CDATA[scholarship-hero]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/financing/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/financing/</loc>
 		<lastmod>2016-11-25T21:41:49-05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/warranty/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/warranty/</loc>
 		<lastmod>2016-12-30T11:08:02-05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/golf/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/golf/</loc>
 		<lastmod>2017-02-02T15:29:01-05:00</lastmod>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/coach-conley.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/coach-conley.jpg</image:loc>
 			<image:caption><![CDATA[coach-conley]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/mattress-onwhite-1.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/mattress-onwhite-1.jpg</image:loc>
 			<image:caption><![CDATA[The HIBR Mattress]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/eco-safe.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/eco-safe.jpg</image:loc>
 			<image:caption><![CDATA[Eco Friendly Logo]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/eco-recycle.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/eco-recycle.jpg</image:loc>
 			<image:caption><![CDATA[Recycle Icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/eco-certipur.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/eco-certipur.jpg</image:loc>
 			<image:caption><![CDATA[CertiPur Logo]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/greenville-sc-showroom/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/greenville-sc-showroom/</loc>
 		<lastmod>2017-03-16T13:32:14-04:00</lastmod>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/11/hibr-showroom-map-greenville-sc.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/11/hibr-showroom-map-greenville-sc.jpg</image:loc>
 			<image:caption><![CDATA[The HIBR Showroom location in Greenville, SC]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/refund-policy/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/refund-policy/</loc>
 		<lastmod>2017-06-08T14:57:20-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/help/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/help/</loc>
 		<lastmod>2017-06-12T10:14:40-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/reviews/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/reviews/</loc>
 		<lastmod>2017-10-17T11:26:19-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/fitness/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/fitness/</loc>
 		<lastmod>2017-11-01T17:24:01-04:00</lastmod>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/mattress-product-image.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/mattress-product-image.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2017/10/mattress-layers-4-1.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2017/10/mattress-layers-4-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2017/10/mens-health-logo2017-white.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2017/10/mens-health-logo2017-white.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2017/10/maxim-logo2017-white.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2017/10/maxim-logo2017-white.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2017/05/box_1.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2017/05/box_1.png</image:loc>
 			<image:caption><![CDATA[HIBR LITE in a box]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2017/05/box_2.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2017/05/box_2.png</image:loc>
 			<image:caption><![CDATA[HIBR Lite on your Bed Frame]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2017/05/box_3.png</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2017/05/box_3.png</image:loc>
 			<image:caption><![CDATA[HIBR LITE fully expanded]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2017/08/hibr-boxing-tilt.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2017/08/hibr-boxing-tilt.jpg</image:loc>
 			<image:caption><![CDATA[The HIBR Mattress Box]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/eco-safe.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/eco-safe.jpg</image:loc>
 			<image:caption><![CDATA[Eco Friendly Logo]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/eco-recycle.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/eco-recycle.jpg</image:loc>
 			<image:caption><![CDATA[Recycle Icon]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://wizardly-saha-c53d99.netlify.com/wp-content/uploads/2016/02/eco-certipur.jpg</image:loc>
+			<image:loc>https://stoic-ride-ced73e.netlify.com/wp-content/uploads/2016/02/eco-certipur.jpg</image:loc>
 			<image:caption><![CDATA[CertiPur Logo]]></image:caption>
 		</image:image>
 	</url>

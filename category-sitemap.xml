@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//hibr-clone.local/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/category/5q-interview/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/category/5q-interview/</loc>
 		<lastmod>2016-03-07T10:39:27-05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/category/health/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/category/health/</loc>
 		<lastmod>2017-04-26T14:40:59-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/category/how-to/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/category/how-to/</loc>
 		<lastmod>2016-08-18T13:08:35-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/category/lifestyle/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/category/lifestyle/</loc>
 		<lastmod>2017-06-06T10:44:34-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/category/manufacturing/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/category/manufacturing/</loc>
 		<lastmod>2016-08-15T22:32:55-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/category/sleep/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/category/sleep/</loc>
 		<lastmod>2017-04-26T14:40:59-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://wizardly-saha-c53d99.netlify.com/category/technology/</loc>
+		<loc>https://stoic-ride-ced73e.netlify.com/category/technology/</loc>
 		<lastmod>2017-10-11T10:51:51-04:00</lastmod>
 	</url>
 </urlset>
