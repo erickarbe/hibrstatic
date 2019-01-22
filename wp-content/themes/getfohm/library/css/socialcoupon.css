@@ -1,0 +1,37 @@
+.tcsd {width: auto;padding: 10px 10px 0px 10px;border: 1px solid #d4d4d4;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;margin: 15px 0px;font-size: 12px !important;color: #333 !important;background: #fff;clear: both;}
+.tcsd iframe {margin-bottom: 0px !important;margin-top: opx !important;padding: 0px !important;border: none !important;}
+.tcsd.product-page, .tcsd.checkout {margin: 25px 0px !important;}
+.cart-collaterals .tcsd.cart {width: 44% !important;float: left !important;}
+.tcsd .tcsd-title {font-weight: bold;font-size: 14px;border-bottom: 1px solid #d4d4d4;margin: 0 0 7px 0;padding: 0 0 7px 0;}
+.tcsd .tcsd-message {margin: 0 0 15px 0;}
+.tcsd .tcsd-title.checkout {font-weight: bold !important;font-size: 13px !important;}
+.tcsd .tcsd-title.checkout span {float: right;}
+.tcsd .tcsd-message.checkout {font-size: 11px !important;margin: 0px !important;}
+.tcsd .tcsd-message.shared {margin: 0px !important;}
+.tcsd-clear {clear: both;height: 0 x;margin: 0px;padding: 0px;}
+.tcsd-share {display: inline-block;padding: 4px 4px;font-size: 11px !important;line-height: 11px !important;text-decoration: none !important;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
+.tcsd-share span {padding: 1px 0 0 17px;}
+.tcsd-share.light {background-color: #eceef6;border: 1px solid #cad4e7;color: #3b5998 !important;}
+.tcsd-share.light span {background: url("library/images/share-btn.png") 0px 0px no-repeat transparent;}
+.tcsd-share.light:hover {border: 1px solid #9dacce;}
+.tcsd-share.dark {background-color: #c7c7c7;border: 1px solid #999;color: #333 !important;}
+.tcsd-share.dark span {background: url("library/images/share-btn.png") 0px -13px no-repeat transparent;}
+.tcsd-share.dark:hover {border: 1px solid #ddd;background-color: #d9d9d9;}
+.tcsd-buttons.covers-off .tcsd-button {background: none !important;border: none !important;-webkit-box-shadow: none !important;-moz-box-shadow: none !important;}
+.tcsd-button {cursor: pointer !important;position: relative;width: 130px !important;height: 30px !important;float: left;margin: 0px 20px 15px 0;background-color: #d6dbde;background: #d6dbde -webkit-linear-gradient(bottom,#d7dbde 0,#d8dcdd 60%,#c1c7ca 100%);background: #d6dbde -moz-linear-gradient(bottom,#d7dbde 0,#d8dcdd 60%,#c1c7ca 100%);-webkit-box-shadow: inset 0px 0px 5px rgba(0,0,0,.2),0px 1px 1px rgba(0,0,0,.5);-moz-box-shadow: inset 0px 0px 5px rgba(0,0,0,.2),0px 1px 1px rgba(0,0,0,.5);text-align: center;color: #4a66a7;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;}
+.tcsd-button-cover {width: 130px;height: 34px;position: absolute;top: 0px;left: 0px;z-index: 50;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;background-image: linear-gradient(bottom,#efefef 25%,#f9f9f9 63%);background-image: -o-linear-gradient(bottom,#efefef 25%,#f9f9f9 63%);background-image: -moz-linear-gradient(bottom,#efefef 25%,#f9f9f9 63%);background-image: -webkit-linear-gradient(bottom,#efefef 25%,#f9f9f9 63%);background-image: -ms-linear-gradient(bottom,#efefef 25%,#f9f9f9 63%);background-image: -webkit-gradient(linear,left bottom,left top,color-stop(.25,#efefef),color-stop(.63,#f9f9f9));}
+.tcsd-buttons.covers-off .tcsd-button-cover {display: none !important;}
+.tcsd-button-cover .tcsd-button-icon {width: 24px;height: 34px;background-size: 24px auto !important;margin: 0px auto;}
+.tcsd-button-cover.facebook .tcsd-button-icon {background: url("library/images/facebook.png") center center no-repeat;}
+.tcsd-button-cover.twitter .tcsd-button-icon {background: url("library/images/twitter.png") center center no-repeat;}
+.tcsd-button-cover.google .tcsd-button-icon {background: url("library/images/google.png") center center no-repeat;}
+.tcsd-button-cover.linkedin .tcsd-button-icon {background: url("library/images/linkedin.png") center center no-repeat;}
+.tcsd-button-cover.vk .tcsd-button-icon {background: url("library/images/vk.png") center center no-repeat;}
+.tcsd-button-inner {padding: 5px 0 0 0;z-index: 40;}
+.tcsd-button-inner.vk {padding: 5px 0 0 5px !important;}
+@media only screen and (max-width: 767px) {.tcsd-button, .tcsd-button-cover {width: 160px !important;}
+	.tcsd-button {margin: 20px auto 0px;float: none !important;}}
+@media only screen and (min-width: 480px) and (max-width: 767px) {.tcsd-button, .tcsd-button-cover {width: 160px !important;}
+	.tcsd-button {margin: 20px auto 0px;float: none !important;}}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {.tcsd-share.light span {background: url("library/images/share-btn-retina.png") 0px 2px no-repeat transparent;background-size: 14px auto !important;}
+	.tcsd-share.dark span {background: url("library/images/share-btn-retina.png") 0px -13px no-repeat transparent;background-size: 14px auto !important;}}

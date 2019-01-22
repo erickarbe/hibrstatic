@@ -1,0 +1,74 @@
+2018-01-19T15:01:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /app/public/wp-content/themes/getfohm/functions.php:1647
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): display_price_in_variation_option_name('Twin')
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters('Twin', Array)
+#2 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-variations.php(29): apply_filters('woocommerce_var...', 'Twin')
+#3 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(171): include('/app/public/wp-...')
+#4 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php(44): WC_Meta_Box_Product_Data::output_variations()
+#5 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(33): include('/app/public/wp-...')
+#6 /app/public/wp-admin/includes/template.php(1063): WC_Meta_Box_Product_Data::output(Object(WP_Post), Array)
+
+
+2018-01-19T15:01:49+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /app/public/wp-content/themes/getfohm/functions.php:1647
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): display_price_in_variation_option_name('Twin')
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters('Twin', Array)
+#2 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-variations.php(29): apply_filters('woocommerce_var...', 'Twin')
+#3 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(171): include('/app/public/wp-...')
+#4 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php(44): WC_Meta_Box_Product_Data::output_variations()
+#5 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(33): include('/app/public/wp-...')
+#6 /app/public/wp-admin/includes/template.php(1063): WC_Meta_Box_Product_Data::output(Object(WP_Post), Array)
+
+
+2018-01-19T15:02:19+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /app/public/wp-content/themes/getfohm/functions.php:1647
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): display_price_in_variation_option_name('Twin')
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters('Twin', Array)
+#2 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-variations.php(29): apply_filters('woocommerce_var...', 'Twin')
+#3 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(171): include('/app/public/wp-...')
+#4 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php(44): WC_Meta_Box_Product_Data::output_variations()
+#5 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(33): include('/app/public/wp-...')
+#6 /app/public/wp-admin/includes/template.php(1063): WC_Meta_Box_Product_Data::output(Object(WP_Post), Array)
+
+
+2018-01-19T15:02:27+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /app/public/wp-content/themes/getfohm/functions.php:1647
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): display_price_in_variation_option_name('Twin')
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters('Twin', Array)
+#2 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-variations.php(29): apply_filters('woocommerce_var...', 'Twin')
+#3 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(171): include('/app/public/wp-...')
+#4 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php(44): WC_Meta_Box_Product_Data::output_variations()
+#5 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(33): include('/app/public/wp-...')
+#6 /app/public/wp-admin/includes/template.php(1063): WC_Meta_Box_Product_Data::output(Object(WP_Post), Array)
+
+
+2018-01-19T15:09:27+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /app/public/wp-content/themes/getfohm/functions.php:1647
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): display_price_in_variation_option_name('Twin')
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters('Twin', Array)
+#2 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-variations.php(29): apply_filters('woocommerce_var...', 'Twin')
+#3 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(171): include('/app/public/wp-...')
+#4 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php(44): WC_Meta_Box_Product_Data::output_variations()
+#5 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(33): include('/app/public/wp-...')
+#6 /app/public/wp-admin/includes/template.php(1063): WC_Meta_Box_Product_Data::output(Object(WP_Post), Array)
+
+
+2018-01-19T15:09:35+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /app/public/wp-content/themes/getfohm/functions.php:1647
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): display_price_in_variation_option_name('Twin')
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters('Twin', Array)
+#2 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-variations.php(29): apply_filters('woocommerce_var...', 'Twin')
+#3 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(171): include('/app/public/wp-...')
+#4 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php(44): WC_Meta_Box_Product_Data::output_variations()
+#5 /app/public/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(33): include('/app/public/wp-...')
+#6 /app/public/wp-admin/includes/template.php(1063): WC_Meta_Box_Product_Data::output(Object(WP_Post), Array)
+
+
+2018-01-25T13:40:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /app/public/wp-content/themes/getfohm/page.php:13
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown
+

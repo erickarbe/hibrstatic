@@ -1,0 +1,66 @@
+04-27-2016 @ 00:08:41 - handle_wc_api - Processing payment for order 3603 with checkout token 9M6ISOUBUGJ6SXC1.
+04-27-2016 @ 00:08:41 - handle_wc_api - Production mode is enabled
+04-27-2016 @ 00:08:42 - handle_wc_api - Received charge id HEPW-JJ1Q for order 3603.
+04-27-2016 @ 00:08:45 - capture_charge - Info: Successfully captured 861 for order 3603
+06-19-2016 @ 09:20:45 - handle_wc_api - Processing payment for order 3804 with checkout token 4FG9E0QKV0D16GQ7.
+06-19-2016 @ 09:20:45 - handle_wc_api - Production mode is enabled
+06-19-2016 @ 09:20:46 - handle_wc_api - Received charge id H34E-HXWF for order 3804.
+06-19-2016 @ 09:20:48 - capture_charge - Info: Successfully captured 929 for order 3804
+06-27-2016 @ 07:21:50 - handle_wc_api - Processing payment for order 3839 with checkout token MD7T7N2OWRFWXESA.
+06-27-2016 @ 07:21:50 - handle_wc_api - Production mode is enabled
+06-27-2016 @ 07:21:52 - handle_wc_api - Received charge id TU7W-D4ZW for order 3839.
+06-27-2016 @ 07:21:53 - capture_charge - Info: Successfully captured 875 for order 3839
+06-30-2016 @ 01:41:23 - handle_wc_api - Processing payment for order 3861 with checkout token 8GQ0I51OK2XDDV58.
+06-30-2016 @ 01:41:23 - handle_wc_api - Production mode is enabled
+06-30-2016 @ 01:41:24 - handle_wc_api - Received charge id BXO7-23JR for order 3861.
+06-30-2016 @ 01:41:26 - capture_charge - Info: Successfully captured 716 for order 3861
+08-24-2016 @ 23:49:23 - handle_wc_api - Processing payment for order 4223 with checkout token DZ2C7YXIHOA8WHDT.
+08-24-2016 @ 23:49:23 - handle_wc_api - Production mode is enabled
+08-24-2016 @ 23:49:24 - handle_wc_api - Received charge id DU94-NSCO for order 4223.
+08-24-2016 @ 23:49:26 - capture_charge - Info: Successfully captured 499 for order 4223
+09-08-2016 @ 09:12:59 - process_refund - Info: Beginning processing refund/void for order 4223
+09-08-2016 @ 09:13:00 - process_refund - Info: Successfully refunded 499 for order 4223
+11-28-2016 @ 23:28:47 - handle_wc_api - Processing payment for order 4541 with checkout token M7BUL6IKQ4I94QI1.
+11-28-2016 @ 23:28:47 - handle_wc_api - Production mode is enabled
+11-28-2016 @ 23:28:49 - handle_wc_api - Received charge id OWOX-XSOU for order 4541.
+11-28-2016 @ 23:28:51 - capture_charge - Info: Successfully captured 126 for order 4541
+12-10-2016 @ 06:56:04 - handle_wc_api - Processing payment for order 4587 with checkout token E1P5PQQ24JUA2AOF.
+12-10-2016 @ 06:56:04 - handle_wc_api - Production mode is enabled
+12-10-2016 @ 06:56:05 - handle_wc_api - Received charge id TCKB-ECKR for order 4587.
+12-10-2016 @ 06:56:11 - capture_charge - Info: Successfully captured 637 for order 4587
+12-11-2016 @ 18:43:08 - handle_wc_api - Processing payment for order 4597 with checkout token 4V5M7G4Z030XX0RO.
+12-11-2016 @ 18:43:08 - handle_wc_api - Production mode is enabled
+12-11-2016 @ 18:43:09 - handle_wc_api - Received charge id 4T8S-AD3N for order 4597.
+12-11-2016 @ 18:43:13 - capture_charge - Info: Successfully captured 656 for order 4597
+12-12-2016 @ 21:12:19 - handle_wc_api - Processing payment for order 4607 with checkout token U4ILXECQTPHE5WY0.
+12-12-2016 @ 21:12:19 - handle_wc_api - Production mode is enabled
+12-12-2016 @ 21:12:21 - handle_wc_api - Received charge id V32V-OK8V for order 4607.
+12-12-2016 @ 21:12:25 - capture_charge - Info: Successfully captured 656 for order 4607
+12-22-2016 @ 19:04:35 - handle_wc_api - Processing payment for order 4652 with checkout token EWMARR4RN4L7O8KG.
+12-22-2016 @ 19:04:35 - handle_wc_api - Production mode is enabled
+12-22-2016 @ 19:04:36 - handle_wc_api - Received charge id ANY9-RRQ5 for order 4652.
+12-22-2016 @ 19:04:36 - handle_wc_api - Checkout failed. This order has already been paid.
+12-22-2016 @ 19:11:51 - handle_wc_api - Processing payment for order 4654 with checkout token 4URA6VKER9SCRV1X.
+12-22-2016 @ 19:11:51 - handle_wc_api - Production mode is enabled
+12-22-2016 @ 19:11:51 - handle_wc_api - Received charge id ELBW-GEOT for order 4654.
+12-22-2016 @ 19:11:56 - capture_charge - Info: Successfully captured 563 for order 4654
+03-31-2017 @ 20:06:04 - handle_wc_api - Processing payment for order 4882 with checkout token P9VQC39UBIBW3SRM.
+03-31-2017 @ 20:06:04 - handle_wc_api - Production mode is enabled
+03-31-2017 @ 20:06:05 - handle_wc_api - Received charge id TCY3-8T51 for order 4882.
+03-31-2017 @ 20:06:13 - capture_charge - Info: Successfully captured 775 for order 4882
+06-07-2017 @ 16:18:17 - handle_wc_api - Processing payment for order 5102 with checkout token 7AUB55T6A2DNQH74.
+06-07-2017 @ 16:18:17 - handle_wc_api - Production mode is enabled
+06-07-2017 @ 16:18:18 - handle_wc_api - Received charge id MPGH-FIOS for order 5102.
+06-07-2017 @ 16:18:22 - capture_charge - Info: Successfully captured 750 for order 5102
+06-25-2017 @ 21:31:16 - handle_wc_api - Processing payment for order 5161 with checkout token PLQ2K1NIMUYZTDWQ.
+06-25-2017 @ 21:31:16 - handle_wc_api - Production mode is enabled
+06-25-2017 @ 21:31:17 - handle_wc_api - Received charge id UPCS-1LQO for order 5161.
+06-25-2017 @ 21:31:21 - capture_charge - Info: Successfully captured 875 for order 5161
+08-23-2017 @ 15:16:28 - handle_wc_api - Processing payment for order 5289 with checkout token 1ETHG8AVBB45I6SS.
+08-23-2017 @ 15:16:28 - handle_wc_api - Production mode is enabled
+08-23-2017 @ 15:16:29 - handle_wc_api - Received charge id 9XX7-94DY for order 5289.
+08-23-2017 @ 15:16:32 - capture_charge - Info: Successfully captured 600 for order 5289
+11-10-2017 @ 19:41:33 - handle_wc_api - Processing payment for order 5494 with checkout token DZHL7RJ0PE2USTFH.
+11-10-2017 @ 19:41:33 - handle_wc_api - Production mode is enabled
+11-10-2017 @ 19:41:33 - handle_wc_api - Received charge id T2FY-ITK5 for order 5494.
+11-10-2017 @ 19:41:37 - capture_charge - Info: Successfully captured 700 for order 5494

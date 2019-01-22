@@ -1,0 +1,1406 @@
+2017-06-06T11:19:48+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:19:48+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:19:48+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:19:48+00:00 DEBUG ---
+2017-06-06T11:19:48+00:00 DEBUG Processing product reviews.
+2017-06-06T11:19:48+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:19:48+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:48+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:19:50+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:19:50+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:19:50+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:19:50+00:00 DEBUG ---
+2017-06-06T11:19:50+00:00 DEBUG Processing product reviews.
+2017-06-06T11:19:50+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:19:50+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:50+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:19:53+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:19:53+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:19:53+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:19:53+00:00 DEBUG ---
+2017-06-06T11:19:53+00:00 DEBUG Processing product reviews.
+2017-06-06T11:19:53+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:19:53+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:53+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:19:54+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:19:54+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:19:54+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:19:54+00:00 DEBUG ---
+2017-06-06T11:19:54+00:00 DEBUG Processing product reviews.
+2017-06-06T11:19:54+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:19:54+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:54+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:19:55+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:19:55+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:19:55+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:19:55+00:00 DEBUG ---
+2017-06-06T11:19:55+00:00 DEBUG Processing product reviews.
+2017-06-06T11:19:55+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:19:55+00:00 DEBUG > Inserting 24362
+2017-06-06T11:19:55+00:00 DEBUG > Inserted - post ID is 39312.
+2017-06-06T11:19:55+00:00 DEBUG > Finished importing post ID 39312.
+2017-06-06T11:19:55+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:19:55+00:00 DEBUG > Inserting 24363
+2017-06-06T11:19:55+00:00 DEBUG > Inserted - post ID is 39313.
+2017-06-06T11:19:55+00:00 DEBUG > Finished importing post ID 39313.
+2017-06-06T11:19:55+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:19:55+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:55+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:19:55+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:55+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:19:55+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:55+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:19:55+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:55+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:19:55+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:55+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:19:55+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:19:55+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:23+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:23+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:23+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:23+00:00 DEBUG ---
+2017-06-06T11:25:23+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:23+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39314.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39314.
+2017-06-06T11:25:23+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39315.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39315.
+2017-06-06T11:25:23+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39316.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39316.
+2017-06-06T11:25:23+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39317.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39317.
+2017-06-06T11:25:23+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39318.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39318.
+2017-06-06T11:25:23+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39319.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39319.
+2017-06-06T11:25:23+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39320.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39320.
+2017-06-06T11:25:23+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39321.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39321.
+2017-06-06T11:25:23+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:23+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:23+00:00 DEBUG > Inserted - post ID is 39322.
+2017-06-06T11:25:23+00:00 DEBUG > Finished importing post ID 39322.
+2017-06-06T11:25:23+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:29+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:29+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:29+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:29+00:00 DEBUG ---
+2017-06-06T11:25:29+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:29+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39323.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39323.
+2017-06-06T11:25:29+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39324.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39324.
+2017-06-06T11:25:29+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39325.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39325.
+2017-06-06T11:25:29+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39326.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39326.
+2017-06-06T11:25:29+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39327.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39327.
+2017-06-06T11:25:29+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39328.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39328.
+2017-06-06T11:25:29+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39329.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39329.
+2017-06-06T11:25:29+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39330.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39330.
+2017-06-06T11:25:29+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39331.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39331.
+2017-06-06T11:25:29+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:29+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:29+00:00 DEBUG > Inserted - post ID is 39332.
+2017-06-06T11:25:29+00:00 DEBUG > Finished importing post ID 39332.
+2017-06-06T11:25:29+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:31+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:31+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:32+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:32+00:00 DEBUG ---
+2017-06-06T11:25:32+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:32+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39333.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39333.
+2017-06-06T11:25:32+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39334.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39334.
+2017-06-06T11:25:32+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39335.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39335.
+2017-06-06T11:25:32+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39336.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39336.
+2017-06-06T11:25:32+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39337.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39337.
+2017-06-06T11:25:32+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39338.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39338.
+2017-06-06T11:25:32+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39339.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39339.
+2017-06-06T11:25:32+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39340.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39340.
+2017-06-06T11:25:32+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39341.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39341.
+2017-06-06T11:25:32+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:32+00:00 DEBUG > Inserted - post ID is 39342.
+2017-06-06T11:25:32+00:00 DEBUG > Finished importing post ID 39342.
+2017-06-06T11:25:32+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:33+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:33+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:33+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:33+00:00 DEBUG ---
+2017-06-06T11:25:33+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:33+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39343.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39343.
+2017-06-06T11:25:33+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39344.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39344.
+2017-06-06T11:25:33+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39345.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39345.
+2017-06-06T11:25:33+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39346.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39346.
+2017-06-06T11:25:33+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39347.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39347.
+2017-06-06T11:25:33+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39348.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39348.
+2017-06-06T11:25:33+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39349.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39349.
+2017-06-06T11:25:33+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39350.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39350.
+2017-06-06T11:25:33+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39351.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39351.
+2017-06-06T11:25:33+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:33+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:33+00:00 DEBUG > Inserted - post ID is 39352.
+2017-06-06T11:25:33+00:00 DEBUG > Finished importing post ID 39352.
+2017-06-06T11:25:33+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:35+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:35+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:35+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:35+00:00 DEBUG ---
+2017-06-06T11:25:35+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:35+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39353.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39353.
+2017-06-06T11:25:35+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39354.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39354.
+2017-06-06T11:25:35+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39355.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39355.
+2017-06-06T11:25:35+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39356.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39356.
+2017-06-06T11:25:35+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39357.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39357.
+2017-06-06T11:25:35+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39358.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39358.
+2017-06-06T11:25:35+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39359.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39359.
+2017-06-06T11:25:35+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39360.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39360.
+2017-06-06T11:25:35+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39361.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39361.
+2017-06-06T11:25:35+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:35+00:00 DEBUG > Inserted - post ID is 39362.
+2017-06-06T11:25:35+00:00 DEBUG > Finished importing post ID 39362.
+2017-06-06T11:25:35+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:36+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:36+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:36+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:36+00:00 DEBUG ---
+2017-06-06T11:25:36+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:36+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39363.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39363.
+2017-06-06T11:25:36+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39364.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39364.
+2017-06-06T11:25:36+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39365.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39365.
+2017-06-06T11:25:36+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39366.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39366.
+2017-06-06T11:25:36+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39367.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39367.
+2017-06-06T11:25:36+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39368.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39368.
+2017-06-06T11:25:36+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39369.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39369.
+2017-06-06T11:25:36+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39370.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39370.
+2017-06-06T11:25:36+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39371.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39371.
+2017-06-06T11:25:36+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:36+00:00 DEBUG > Inserted - post ID is 39372.
+2017-06-06T11:25:36+00:00 DEBUG > Finished importing post ID 39372.
+2017-06-06T11:25:36+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:37+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:37+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:37+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:37+00:00 DEBUG ---
+2017-06-06T11:25:37+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:37+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39373.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39373.
+2017-06-06T11:25:37+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39374.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39374.
+2017-06-06T11:25:37+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39375.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39375.
+2017-06-06T11:25:37+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39376.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39376.
+2017-06-06T11:25:37+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39377.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39377.
+2017-06-06T11:25:37+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39378.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39378.
+2017-06-06T11:25:37+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39379.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39379.
+2017-06-06T11:25:37+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39380.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39380.
+2017-06-06T11:25:37+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39381.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39381.
+2017-06-06T11:25:37+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:37+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:37+00:00 DEBUG > Inserted - post ID is 39382.
+2017-06-06T11:25:37+00:00 DEBUG > Finished importing post ID 39382.
+2017-06-06T11:25:37+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:39+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:39+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:39+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:39+00:00 DEBUG ---
+2017-06-06T11:25:39+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:39+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39383.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39383.
+2017-06-06T11:25:39+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39384.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39384.
+2017-06-06T11:25:39+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39385.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39385.
+2017-06-06T11:25:39+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39386.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39386.
+2017-06-06T11:25:39+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39387.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39387.
+2017-06-06T11:25:39+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39388.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39388.
+2017-06-06T11:25:39+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39389.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39389.
+2017-06-06T11:25:39+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39390.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39390.
+2017-06-06T11:25:39+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39391.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39391.
+2017-06-06T11:25:39+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:39+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:39+00:00 DEBUG > Inserted - post ID is 39392.
+2017-06-06T11:25:39+00:00 DEBUG > Finished importing post ID 39392.
+2017-06-06T11:25:39+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:48+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:48+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:48+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:48+00:00 DEBUG ---
+2017-06-06T11:25:48+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:48+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39393.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39393.
+2017-06-06T11:25:48+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39394.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39394.
+2017-06-06T11:25:48+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39395.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39395.
+2017-06-06T11:25:48+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39396.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39396.
+2017-06-06T11:25:48+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39397.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39397.
+2017-06-06T11:25:48+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39398.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39398.
+2017-06-06T11:25:48+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39399.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39399.
+2017-06-06T11:25:48+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39400.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39400.
+2017-06-06T11:25:48+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39401.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39401.
+2017-06-06T11:25:48+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:48+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:48+00:00 DEBUG > Inserted - post ID is 39402.
+2017-06-06T11:25:48+00:00 DEBUG > Finished importing post ID 39402.
+2017-06-06T11:25:48+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:49+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:49+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:49+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:49+00:00 DEBUG ---
+2017-06-06T11:25:49+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:49+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39403.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39403.
+2017-06-06T11:25:49+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39404.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39404.
+2017-06-06T11:25:49+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39405.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39405.
+2017-06-06T11:25:49+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39406.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39406.
+2017-06-06T11:25:49+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39407.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39407.
+2017-06-06T11:25:49+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39408.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39408.
+2017-06-06T11:25:49+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39409.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39409.
+2017-06-06T11:25:49+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39410.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39410.
+2017-06-06T11:25:49+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39411.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39411.
+2017-06-06T11:25:49+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:49+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:49+00:00 DEBUG > Inserted - post ID is 39412.
+2017-06-06T11:25:49+00:00 DEBUG > Finished importing post ID 39412.
+2017-06-06T11:25:49+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:51+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:51+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:51+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:51+00:00 DEBUG ---
+2017-06-06T11:25:51+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:51+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39413.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39413.
+2017-06-06T11:25:51+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39414.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39414.
+2017-06-06T11:25:51+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39415.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39415.
+2017-06-06T11:25:51+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39416.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39416.
+2017-06-06T11:25:51+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39417.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39417.
+2017-06-06T11:25:51+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39418.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39418.
+2017-06-06T11:25:51+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39419.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39419.
+2017-06-06T11:25:51+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39420.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39420.
+2017-06-06T11:25:51+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39421.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39421.
+2017-06-06T11:25:51+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:51+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:51+00:00 DEBUG > Inserted - post ID is 39422.
+2017-06-06T11:25:51+00:00 DEBUG > Finished importing post ID 39422.
+2017-06-06T11:25:51+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:53+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:53+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:53+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:53+00:00 DEBUG ---
+2017-06-06T11:25:53+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:53+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39423.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39423.
+2017-06-06T11:25:54+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39424.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39424.
+2017-06-06T11:25:54+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39425.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39425.
+2017-06-06T11:25:54+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39426.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39426.
+2017-06-06T11:25:54+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39427.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39427.
+2017-06-06T11:25:54+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39428.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39428.
+2017-06-06T11:25:54+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39429.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39429.
+2017-06-06T11:25:54+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39430.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39430.
+2017-06-06T11:25:54+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39431.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39431.
+2017-06-06T11:25:54+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:54+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:54+00:00 DEBUG > Inserted - post ID is 39432.
+2017-06-06T11:25:54+00:00 DEBUG > Finished importing post ID 39432.
+2017-06-06T11:25:54+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:56+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:56+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:56+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:56+00:00 DEBUG ---
+2017-06-06T11:25:56+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:56+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39433.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39433.
+2017-06-06T11:25:56+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39434.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39434.
+2017-06-06T11:25:56+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39435.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39435.
+2017-06-06T11:25:56+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39436.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39436.
+2017-06-06T11:25:56+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39437.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39437.
+2017-06-06T11:25:56+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39438.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39438.
+2017-06-06T11:25:56+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39439.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39439.
+2017-06-06T11:25:56+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39440.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39440.
+2017-06-06T11:25:56+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39441.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39441.
+2017-06-06T11:25:56+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:56+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:56+00:00 DEBUG > Inserted - post ID is 39442.
+2017-06-06T11:25:56+00:00 DEBUG > Finished importing post ID 39442.
+2017-06-06T11:25:56+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:25:58+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:25:58+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:25:58+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:25:58+00:00 DEBUG ---
+2017-06-06T11:25:58+00:00 DEBUG Processing product reviews.
+2017-06-06T11:25:58+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:25:58+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:58+00:00 DEBUG > Inserted - post ID is 39443.
+2017-06-06T11:25:58+00:00 DEBUG > Finished importing post ID 39443.
+2017-06-06T11:25:58+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:25:58+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:58+00:00 DEBUG > Inserted - post ID is 39444.
+2017-06-06T11:25:58+00:00 DEBUG > Finished importing post ID 39444.
+2017-06-06T11:25:58+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:25:58+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:58+00:00 DEBUG > Inserted - post ID is 39445.
+2017-06-06T11:25:58+00:00 DEBUG > Finished importing post ID 39445.
+2017-06-06T11:25:58+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:25:58+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:58+00:00 DEBUG > Inserted - post ID is 39446.
+2017-06-06T11:25:58+00:00 DEBUG > Finished importing post ID 39446.
+2017-06-06T11:25:59+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:25:59+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:59+00:00 DEBUG > Inserted - post ID is 39447.
+2017-06-06T11:25:59+00:00 DEBUG > Finished importing post ID 39447.
+2017-06-06T11:25:59+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:25:59+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:59+00:00 DEBUG > Inserted - post ID is 39448.
+2017-06-06T11:25:59+00:00 DEBUG > Finished importing post ID 39448.
+2017-06-06T11:25:59+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:25:59+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:59+00:00 DEBUG > Inserted - post ID is 39449.
+2017-06-06T11:25:59+00:00 DEBUG > Finished importing post ID 39449.
+2017-06-06T11:25:59+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:25:59+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:59+00:00 DEBUG > Inserted - post ID is 39450.
+2017-06-06T11:25:59+00:00 DEBUG > Finished importing post ID 39450.
+2017-06-06T11:25:59+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:25:59+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:59+00:00 DEBUG > Inserted - post ID is 39451.
+2017-06-06T11:25:59+00:00 DEBUG > Finished importing post ID 39451.
+2017-06-06T11:25:59+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:25:59+00:00 DEBUG > Inserting 0
+2017-06-06T11:25:59+00:00 DEBUG > Inserted - post ID is 39452.
+2017-06-06T11:25:59+00:00 DEBUG > Finished importing post ID 39452.
+2017-06-06T11:25:59+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:08+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:08+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:08+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:08+00:00 DEBUG ---
+2017-06-06T11:26:08+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:08+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39453.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39453.
+2017-06-06T11:26:08+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39454.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39454.
+2017-06-06T11:26:08+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39455.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39455.
+2017-06-06T11:26:08+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39456.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39456.
+2017-06-06T11:26:08+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39457.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39457.
+2017-06-06T11:26:08+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39458.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39458.
+2017-06-06T11:26:08+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39459.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39459.
+2017-06-06T11:26:08+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39460.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39460.
+2017-06-06T11:26:08+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39461.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39461.
+2017-06-06T11:26:08+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:08+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:08+00:00 DEBUG > Inserted - post ID is 39462.
+2017-06-06T11:26:08+00:00 DEBUG > Finished importing post ID 39462.
+2017-06-06T11:26:08+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:10+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:10+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:10+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:10+00:00 DEBUG ---
+2017-06-06T11:26:10+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:10+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39463.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39463.
+2017-06-06T11:26:10+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39464.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39464.
+2017-06-06T11:26:10+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39465.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39465.
+2017-06-06T11:26:10+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39466.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39466.
+2017-06-06T11:26:10+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39467.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39467.
+2017-06-06T11:26:10+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39468.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39468.
+2017-06-06T11:26:10+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39469.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39469.
+2017-06-06T11:26:10+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39470.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39470.
+2017-06-06T11:26:10+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39471.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39471.
+2017-06-06T11:26:10+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:10+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:10+00:00 DEBUG > Inserted - post ID is 39472.
+2017-06-06T11:26:10+00:00 DEBUG > Finished importing post ID 39472.
+2017-06-06T11:26:10+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:12+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:12+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:12+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:12+00:00 DEBUG ---
+2017-06-06T11:26:12+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:12+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39473.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39473.
+2017-06-06T11:26:12+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39474.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39474.
+2017-06-06T11:26:12+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39475.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39475.
+2017-06-06T11:26:12+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39476.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39476.
+2017-06-06T11:26:12+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39477.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39477.
+2017-06-06T11:26:12+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39478.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39478.
+2017-06-06T11:26:12+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39479.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39479.
+2017-06-06T11:26:12+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39480.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39480.
+2017-06-06T11:26:12+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39481.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39481.
+2017-06-06T11:26:12+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:12+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:12+00:00 DEBUG > Inserted - post ID is 39482.
+2017-06-06T11:26:12+00:00 DEBUG > Finished importing post ID 39482.
+2017-06-06T11:26:12+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:14+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:14+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:14+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:14+00:00 DEBUG ---
+2017-06-06T11:26:14+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:14+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39483.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39483.
+2017-06-06T11:26:14+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39484.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39484.
+2017-06-06T11:26:14+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39485.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39485.
+2017-06-06T11:26:14+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39486.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39486.
+2017-06-06T11:26:14+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39487.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39487.
+2017-06-06T11:26:14+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39488.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39488.
+2017-06-06T11:26:14+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39489.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39489.
+2017-06-06T11:26:14+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39490.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39490.
+2017-06-06T11:26:14+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39491.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39491.
+2017-06-06T11:26:14+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:14+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:14+00:00 DEBUG > Inserted - post ID is 39492.
+2017-06-06T11:26:14+00:00 DEBUG > Finished importing post ID 39492.
+2017-06-06T11:26:14+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:16+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:16+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:16+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:16+00:00 DEBUG ---
+2017-06-06T11:26:16+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:16+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39493.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39493.
+2017-06-06T11:26:16+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39494.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39494.
+2017-06-06T11:26:16+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39495.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39495.
+2017-06-06T11:26:16+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39496.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39496.
+2017-06-06T11:26:16+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39497.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39497.
+2017-06-06T11:26:16+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39498.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39498.
+2017-06-06T11:26:16+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39499.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39499.
+2017-06-06T11:26:16+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39500.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39500.
+2017-06-06T11:26:16+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39501.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39501.
+2017-06-06T11:26:16+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:16+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:16+00:00 DEBUG > Inserted - post ID is 39502.
+2017-06-06T11:26:16+00:00 DEBUG > Finished importing post ID 39502.
+2017-06-06T11:26:16+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:18+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:18+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:18+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:18+00:00 DEBUG ---
+2017-06-06T11:26:18+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:18+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39503.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39503.
+2017-06-06T11:26:18+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39504.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39504.
+2017-06-06T11:26:18+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39505.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39505.
+2017-06-06T11:26:18+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39506.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39506.
+2017-06-06T11:26:18+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39507.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39507.
+2017-06-06T11:26:18+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39508.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39508.
+2017-06-06T11:26:18+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39509.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39509.
+2017-06-06T11:26:18+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39510.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39510.
+2017-06-06T11:26:18+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39511.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39511.
+2017-06-06T11:26:18+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:18+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:18+00:00 DEBUG > Inserted - post ID is 39512.
+2017-06-06T11:26:18+00:00 DEBUG > Finished importing post ID 39512.
+2017-06-06T11:26:18+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:28+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:28+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:28+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:28+00:00 DEBUG ---
+2017-06-06T11:26:28+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:28+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39513.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39513.
+2017-06-06T11:26:28+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39514.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39514.
+2017-06-06T11:26:28+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39515.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39515.
+2017-06-06T11:26:28+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39516.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39516.
+2017-06-06T11:26:28+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39517.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39517.
+2017-06-06T11:26:28+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39518.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39518.
+2017-06-06T11:26:28+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39519.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39519.
+2017-06-06T11:26:28+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39520.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39520.
+2017-06-06T11:26:28+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39521.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39521.
+2017-06-06T11:26:28+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:28+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:28+00:00 DEBUG > Inserted - post ID is 39522.
+2017-06-06T11:26:28+00:00 DEBUG > Finished importing post ID 39522.
+2017-06-06T11:26:28+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:30+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:30+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:30+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:30+00:00 DEBUG ---
+2017-06-06T11:26:30+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:30+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39523.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39523.
+2017-06-06T11:26:30+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39524.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39524.
+2017-06-06T11:26:30+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39525.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39525.
+2017-06-06T11:26:30+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39526.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39526.
+2017-06-06T11:26:30+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39527.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39527.
+2017-06-06T11:26:30+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39528.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39528.
+2017-06-06T11:26:30+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39529.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39529.
+2017-06-06T11:26:30+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39530.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39530.
+2017-06-06T11:26:30+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39531.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39531.
+2017-06-06T11:26:30+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:30+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:30+00:00 DEBUG > Inserted - post ID is 39532.
+2017-06-06T11:26:30+00:00 DEBUG > Finished importing post ID 39532.
+2017-06-06T11:26:30+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:32+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:32+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:32+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:32+00:00 DEBUG ---
+2017-06-06T11:26:32+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:32+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39533.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39533.
+2017-06-06T11:26:32+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39534.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39534.
+2017-06-06T11:26:32+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39535.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39535.
+2017-06-06T11:26:32+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39536.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39536.
+2017-06-06T11:26:32+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39537.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39537.
+2017-06-06T11:26:32+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39538.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39538.
+2017-06-06T11:26:32+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39539.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39539.
+2017-06-06T11:26:32+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39540.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39540.
+2017-06-06T11:26:32+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39541.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39541.
+2017-06-06T11:26:32+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:32+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:32+00:00 DEBUG > Inserted - post ID is 39542.
+2017-06-06T11:26:32+00:00 DEBUG > Finished importing post ID 39542.
+2017-06-06T11:26:32+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:34+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:34+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:34+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:34+00:00 DEBUG ---
+2017-06-06T11:26:34+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:34+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39543.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39543.
+2017-06-06T11:26:34+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39544.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39544.
+2017-06-06T11:26:34+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39545.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39545.
+2017-06-06T11:26:34+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39546.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39546.
+2017-06-06T11:26:34+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39547.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39547.
+2017-06-06T11:26:34+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39548.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39548.
+2017-06-06T11:26:34+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39549.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39549.
+2017-06-06T11:26:34+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39550.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39550.
+2017-06-06T11:26:34+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39551.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39551.
+2017-06-06T11:26:34+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:34+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:34+00:00 DEBUG > Inserted - post ID is 39552.
+2017-06-06T11:26:34+00:00 DEBUG > Finished importing post ID 39552.
+2017-06-06T11:26:34+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:35+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:35+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:35+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:35+00:00 DEBUG ---
+2017-06-06T11:26:35+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:35+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:35+00:00 DEBUG > Inserted - post ID is 39553.
+2017-06-06T11:26:35+00:00 DEBUG > Finished importing post ID 39553.
+2017-06-06T11:26:35+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:35+00:00 DEBUG > Inserted - post ID is 39554.
+2017-06-06T11:26:35+00:00 DEBUG > Finished importing post ID 39554.
+2017-06-06T11:26:35+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:35+00:00 DEBUG > Inserted - post ID is 39555.
+2017-06-06T11:26:35+00:00 DEBUG > Finished importing post ID 39555.
+2017-06-06T11:26:35+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:35+00:00 DEBUG > Inserted - post ID is 39556.
+2017-06-06T11:26:35+00:00 DEBUG > Finished importing post ID 39556.
+2017-06-06T11:26:35+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:35+00:00 DEBUG > Inserted - post ID is 39557.
+2017-06-06T11:26:35+00:00 DEBUG > Finished importing post ID 39557.
+2017-06-06T11:26:35+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:35+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:36+00:00 DEBUG > Inserted - post ID is 39558.
+2017-06-06T11:26:36+00:00 DEBUG > Finished importing post ID 39558.
+2017-06-06T11:26:36+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:36+00:00 DEBUG > Inserted - post ID is 39559.
+2017-06-06T11:26:36+00:00 DEBUG > Finished importing post ID 39559.
+2017-06-06T11:26:36+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:36+00:00 DEBUG > Inserted - post ID is 39560.
+2017-06-06T11:26:36+00:00 DEBUG > Finished importing post ID 39560.
+2017-06-06T11:26:36+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:36+00:00 DEBUG > Inserted - post ID is 39561.
+2017-06-06T11:26:36+00:00 DEBUG > Finished importing post ID 39561.
+2017-06-06T11:26:36+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:36+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:36+00:00 DEBUG > Inserted - post ID is 39562.
+2017-06-06T11:26:36+00:00 DEBUG > Finished importing post ID 39562.
+2017-06-06T11:26:36+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:45+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:45+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:45+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:45+00:00 DEBUG ---
+2017-06-06T11:26:45+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:45+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39563.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39563.
+2017-06-06T11:26:45+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39564.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39564.
+2017-06-06T11:26:45+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39565.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39565.
+2017-06-06T11:26:45+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39566.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39566.
+2017-06-06T11:26:45+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39567.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39567.
+2017-06-06T11:26:45+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39568.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39568.
+2017-06-06T11:26:45+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39569.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39569.
+2017-06-06T11:26:45+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39570.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39570.
+2017-06-06T11:26:45+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39571.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39571.
+2017-06-06T11:26:45+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:45+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:45+00:00 DEBUG > Inserted - post ID is 39572.
+2017-06-06T11:26:45+00:00 DEBUG > Finished importing post ID 39572.
+2017-06-06T11:26:45+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:26:47+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:26:47+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:26:47+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:26:47+00:00 DEBUG ---
+2017-06-06T11:26:47+00:00 DEBUG Processing product reviews.
+2017-06-06T11:26:47+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39573.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39573.
+2017-06-06T11:26:47+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39574.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39574.
+2017-06-06T11:26:47+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39575.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39575.
+2017-06-06T11:26:47+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39576.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39576.
+2017-06-06T11:26:47+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39577.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39577.
+2017-06-06T11:26:47+00:00 DEBUG > Row 6 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39578.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39578.
+2017-06-06T11:26:47+00:00 DEBUG > Row 7 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39579.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39579.
+2017-06-06T11:26:47+00:00 DEBUG > Row 8 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39580.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39580.
+2017-06-06T11:26:47+00:00 DEBUG > Row 9 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39581.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39581.
+2017-06-06T11:26:47+00:00 DEBUG > Row 10 - preparing for import.
+2017-06-06T11:26:47+00:00 DEBUG > Inserting 0
+2017-06-06T11:26:47+00:00 DEBUG > Inserted - post ID is 39582.
+2017-06-06T11:26:47+00:00 DEBUG > Finished importing post ID 39582.
+2017-06-06T11:26:47+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:39:25+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:39:25+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:39:25+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:39:25+00:00 DEBUG ---
+2017-06-06T11:39:25+00:00 DEBUG Processing product reviews.
+2017-06-06T11:39:25+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:39:25+00:00 DEBUG > Inserting 1
+2017-06-06T11:39:25+00:00 DEBUG > Inserted - post ID is 39583.
+2017-06-06T11:39:25+00:00 DEBUG > Finished importing post ID 39583.
+2017-06-06T11:39:25+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:39:25+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:39:25+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:39:25+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:39:25+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:39:25+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:39:25+00:00 DEBUG > Row 5 - preparing for import.
+2017-06-06T11:39:25+00:00 DEBUG > &#8220;&#8221;Product review skipped.
+2017-06-06T11:39:25+00:00 DEBUG Finished processing product reviews.
+2017-06-06T11:41:48+00:00 DEBUG ---[ New Import ] PHP Memory: 256 MB, WP Memory: 256 MB
+2017-06-06T11:41:48+00:00 DEBUG Parsing product reviews CSV.
+2017-06-06T11:41:48+00:00 DEBUG Finished parsing product reviews CSV.
+2017-06-06T11:41:48+00:00 DEBUG ---
+2017-06-06T11:41:48+00:00 DEBUG Processing product reviews.
+2017-06-06T11:41:48+00:00 DEBUG > Row 1 - preparing for import.
+2017-06-06T11:41:48+00:00 DEBUG > Inserting 1
+2017-06-06T11:41:48+00:00 DEBUG > Inserted - post ID is 39584.
+2017-06-06T11:41:48+00:00 DEBUG > Finished importing post ID 39584.
+2017-06-06T11:41:48+00:00 DEBUG > Row 2 - preparing for import.
+2017-06-06T11:41:48+00:00 DEBUG > Inserting 2
+2017-06-06T11:41:48+00:00 DEBUG > Inserted - post ID is 39585.
+2017-06-06T11:41:48+00:00 DEBUG > Finished importing post ID 39585.
+2017-06-06T11:41:48+00:00 DEBUG > Row 3 - preparing for import.
+2017-06-06T11:41:48+00:00 DEBUG > Inserting 3
+2017-06-06T11:41:48+00:00 DEBUG > Inserted - post ID is 39586.
+2017-06-06T11:41:48+00:00 DEBUG > Finished importing post ID 39586.
+2017-06-06T11:41:48+00:00 DEBUG > Row 4 - preparing for import.
+2017-06-06T11:41:48+00:00 DEBUG > Inserting 4
+2017-06-06T11:41:48+00:00 DEBUG > Inserted - post ID is 39587.
+2017-06-06T11:41:48+00:00 DEBUG > Finished importing post ID 39587.
+2017-06-06T11:41:48+00:00 DEBUG Finished processing product reviews.
